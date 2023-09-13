@@ -12,7 +12,7 @@ public abstract class Employee
    public Employee(String firstName, String lastName, 
       String socialSecurityNumber)
    {
-	   //initialize instance variables
+	   //initialize instance variables 
       this.firstName = firstName;                                    
       this.lastName = lastName;                                    
       this.socialSecurityNumber = socialSecurityNumber;         
